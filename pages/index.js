@@ -12,6 +12,9 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to HALETTA!" />
+         <p className="description">
+          coming soon
+        </p>
    
       </main>
 
